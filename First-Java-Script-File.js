@@ -2,8 +2,8 @@
 <html>
 <body>
 
-<h1>My First Web Page</h1>
-<p>My First Paragraph</p>
+<h1>Hello World</h1>
+<p>My First Java-Script-File</p>
 
 <p id="demo"></p>
 
